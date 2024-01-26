@@ -1,7 +1,7 @@
 # API Gateway - Eureka server
 
 ## Architecture
-![1](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week2/assets/107989088/c5cd5c3a-6798-452b-968b-5e5204177fb3)
+<img width="836" alt="Ảnh màn hình 2024-01-26 lúc 16 59 37" src="https://github.com/tranquanghuy-09/SoftwareArchitecture-Week2/assets/107989088/1fb3a3e8-2831-4d0f-b22a-976e9beb4c22">
 
 
 ## Instance register with Eureka
